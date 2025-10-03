@@ -1,1 +1,14 @@
-{"users":[{"id":"10b67688-2d85-4b0a-b375-5f771e9aeec8","name":"Silvio Hinkelman","email":"silvio@gmail.com"},{"id":"8930951c-db9a-40e6-8123-7cb4bd8c914f","name":"Silvio Hinkelman","email":"silvio@gmail.com"}]}
+{
+  "users": [
+    {
+      "id": "366f9775-b405-4a96-a523-dd367e901a91",
+      "name": "Silvio Hinkelman",
+      "email": "silvio@gmail.com"
+    },
+    {
+      "id": "d0e189f8-affb-42a3-a11b-f7a128654efb",
+      "name": "Diego Fernandes",
+      "email": "diego@gmail.com"
+    }
+  ]
+}
